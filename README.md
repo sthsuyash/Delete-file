@@ -18,14 +18,8 @@ The program:
 
 - Clone the repository
 
-```bash
-git clone https://github.com/sthsuyash/Delete-script.git
-```
-
-- Install the Pyinstaller package
-
-```bash
-pip install pyinstaller
+```git
+git clone https://github.com/sthsuyash/Delete-file.git
 ```
 
 - Run the executable
